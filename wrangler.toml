@@ -1,0 +1,10 @@
+name = "basma-menu-platform"
+main = "worker.js"
+compatibility_date = "2026-10-19"
+[[d1_databases]]
+binding = "DB"
+database_name = "basma-menu-db"
+database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+[assets]
+directory = "."
+binding = "ASSETS"
